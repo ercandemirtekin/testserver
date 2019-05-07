@@ -22,37 +22,11 @@
 		 "population":"315,761,000",
 		 "flag":"http://www.androidbegin.com/tutorial/flag/unitedstates.png"
 		 }, 
-		 
 		 {
 		 "name":4,
 		 "country":"Indonesia",
 		 "population":"237,641,326",
 		 "flag":"http://www.androidbegin.com/tutorial/flag/indonesia.png"
-		 }, 
-		 
-		 {
-		 "name":5,
-		 "country":"Brazil",
-		 "population":"193,946,886",
-		 "flag":"http://www.androidbegin.com/tutorial/flag/brazil.png"
-		 }, 
-		 {
-		 "name":7,
-		 "country":"Nigeria",
-		 "population":"170,901,000",
-		 "flag":"http://www.androidbegin.com/tutorial/flag/nigeria.png"
-		 },  
-		 {
-		 "name":11,
-		 "country":"Japan",
-		 "population":"127,360,000",
-		 "flag":"http://www.androidbegin.com/tutorial/flag/japan.png"
-		 }, 
-		 {
-		 "name":12,
-		 "country":"Japan",
-		 "population":"127,360,000",
-		 "flag":"http://www.androidbegin.com/tutorial/flag/japan.png"
 		 }, 
 	] 
 }
