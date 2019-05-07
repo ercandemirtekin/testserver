@@ -32,6 +32,18 @@
 		 "country":"United States",
 		 "population":"315,761,000",
 		 "flag":"http://www.androidbegin.com/tutorial/flag/unitedstates.png"
+		 },
+		{
+		 "name":4,
+		 "country":"Indonesia",
+		 "population":"237,641,326",
+		 "flag":"http://www.androidbegin.com/tutorial/flag/indonesia.png"
+		 }, 
+		{
+		 "name":4,
+		 "country":"Indonesia",
+		 "population":"237,641,326",
+		 "flag":"http://www.androidbegin.com/tutorial/flag/indonesia.png"
 		 }
 	] 
 }
