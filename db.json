@@ -1,5 +1,7 @@
-{
-	 "worldpopulation": [
+ {
+	"data":{ 
+          "worldpopulation": 
+	[
 		 {
 		 "name":1,
 	         "country":"China",
@@ -43,4 +45,5 @@
 		 "flag":"http://www.androidbegin.com/tutorial/flag/indonesia.png"
 		 }
 	] 
+}
 }
