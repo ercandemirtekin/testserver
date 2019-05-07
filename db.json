@@ -1,5 +1,4 @@
  {
-	"data":{ 
           "worldpopulation": 
 	[
 		 {
@@ -45,5 +44,5 @@
 		 "flag":"http://www.androidbegin.com/tutorial/flag/indonesia.png"
 		 }
 	] 
-}
+
 }
