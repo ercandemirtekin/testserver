@@ -3,27 +3,27 @@
 	"sevenwonders": [
 		 {
 	         "country":"Great Wall of China",
-		 "population":"China",
+		 "countryname":"China",
 		 "flag":"https://cdn.britannica.com/s:300x500/82/94382-050-20CF23DB.jpg"
 		 }, 
 		 {
 		 "country":"Petra",
-		 "population":"Jordan",
+		 "countryname":"Jordan",
 		 "flag":"https://cdn.britannica.com/s:300x500/25/153525-050-FC43840D.jpg"
 		 }, 
 		 {
 		 "country":"Christ the Redeemer",
-		 "population":"Brazil",
+		 "countryname":"Brazil",
 		 "flag":"https://cdn.britannica.com/s:300x500/54/150754-050-5B93A950.jpg"
 		 }, 
 		 {
 		 "country":"Machu Picchu",
-		 "population":"Peru",
+		 "countryname":"Peru",
 		 "flag":"https://cdn.britannica.com/s:300x500/30/94530-050-99493FEA.jpg"
 		 }, 
 		{
 		 "country":"Chichen Itza",
-		 "population":"Mexico",
+		 "countryname":"Mexico",
 		 "flag":"https://cdn.britannica.com/s:300x500/49/61349-050-9FFBEB28.jpg"
 		 },
 		{
@@ -32,7 +32,7 @@
 		 }, 
 		{
 		 "country":"Taj Mahal",
-		 "population":"India",
+		 "countryname":"India",
 		 "flag":"https://cdn.britannica.com/s:300x500/86/170586-050-AB7FEFAE.jpg"
 		 }
 	] 
