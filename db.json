@@ -4,43 +4,43 @@
 		 {
 		 "name":1,
 	         "country":"Great Wall of China",
-		 "population":"Da Vinci",
+		 "population":"China",
 		 "flag":"https://cdn.britannica.com/s:300x500/82/94382-050-20CF23DB.jpg"
 		 }, 
 		 {
 		 "name":2,
 		 "country":"Petra",
-		 "population":"1,210,193,422",
+		 "population":"Jordan",
 		 "flag":"https://cdn.britannica.com/s:300x500/25/153525-050-FC43840D.jpg"
 		 }, 
 		 {
 		 "name":3,
 		 "country":"Christ the Redeemer",
-		 "population":"315,761,000",
+		 "population":"Brazil",
 		 "flag":"https://cdn.britannica.com/s:300x500/54/150754-050-5B93A950.jpg"
 		 }, 
 		 {
 		 "name":4,
 		 "country":"Machu Picchu",
-		 "population":"237,641,326",
+		 "population":"Peru",
 		 "flag":"https://cdn.britannica.com/s:300x500/30/94530-050-99493FEA.jpg"
 		 }, 
 		{
 		 "name":5,
 		 "country":"Chichen Itza",
-		 "population":"315,761,000",
+		 "population":"Mexico",
 		 "flag":"https://cdn.britannica.com/s:300x500/49/61349-050-9FFBEB28.jpg"
 		 },
 		{
 		 "name":6,
 		 "country":"Colosseum",
-		 "population":"237,641,326",
+		 "population":"Italy",
 		 "flag":"https://cdn.britannica.com/s:300x500/36/162636-050-932C5D49.jpg"
 		 }, 
 		{
 		 "name":7,
 		 "country":"Taj Mahal",
-		 "population":"237,641,326",
+		 "population":"India",
 		 "flag":"https://cdn.britannica.com/s:300x500/86/170586-050-AB7FEFAE.jpg"
 		 }
 	] 
