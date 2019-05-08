@@ -2,36 +2,37 @@
       
 	"sevenwonders": [
 		 {
-	         "country":"Great Wall of China",
+	         "name":"Great Wall of China",
 		 "countryname":"China",
 		 "flag":"https://cdn.britannica.com/s:300x500/82/94382-050-20CF23DB.jpg"
 		 }, 
 		 {
-		 "country":"Petra",
+		 "name":"Petra",
 		 "countryname":"Jordan",
 		 "flag":"https://cdn.britannica.com/s:300x500/25/153525-050-FC43840D.jpg"
 		 }, 
 		 {
-		 "country":"Christ the Redeemer",
+		 "name":"Christ the Redeemer",
 		 "countryname":"Brazil",
 		 "flag":"https://cdn.britannica.com/s:300x500/54/150754-050-5B93A950.jpg"
 		 }, 
 		 {
-		 "country":"Machu Picchu",
+		 "name":"Machu Picchu",
 		 "countryname":"Peru",
 		 "flag":"https://cdn.britannica.com/s:300x500/30/94530-050-99493FEA.jpg"
 		 }, 
 		{
-		 "country":"Chichen Itza",
+		 "name":"Chichen Itza",
 		 "countryname":"Mexico",
 		 "flag":"https://cdn.britannica.com/s:300x500/49/61349-050-9FFBEB28.jpg"
 		 },
 		{
-		 "population":"Italy",
+	         "name":"Colosseum",
+		 "countryname":"Italy",
 		 "flag":"https://cdn.britannica.com/s:300x500/36/162636-050-932C5D49.jpg"
 		 }, 
 		{
-		 "country":"Taj Mahal",
+		 "name":"Taj Mahal",
 		 "countryname":"India",
 		 "flag":"https://cdn.britannica.com/s:300x500/86/170586-050-AB7FEFAE.jpg"
 		 }
