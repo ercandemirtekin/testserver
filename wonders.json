@@ -2,36 +2,36 @@
   {
     "name": "Great Wall of China",
     "countryName": "China",
-    "image": "https://cdn.britannica.com/s:300x500/82/94382-050-20CF23DB.jpg"
+    "image": "https://picsum.photos/200/300"
   },
   {
     "name": "Petra",
     "countryName": "Jordan",
-    "image": "https://cdn.britannica.com/s:300x500/25/153525-050-FC43840D.jpg"
+    "image": "https://picsum.photos/200/300"
   },
   {
     "name": "Christ the Redeemer",
     "countryName": "Brazil",
-    "image": "https://cdn.britannica.com/s:300x500/54/150754-050-5B93A950.jpg"
+    "image": "https://picsum.photos/200/300"
   },
   {
     "name": "Machu Picchu",
     "countryName": "Peru",
-    "image": "https://cdn.britannica.com/s:300x500/30/94530-050-99493FEA.jpg"
+    "image": "https://picsum.photos/200/300"
   },
   {
     "name": "Chichen Itza",
     "countryName": "Mexico",
-    "image": "https://cdn.britannica.com/s:300x500/49/61349-050-9FFBEB28.jpg"
+    "image": "https://picsum.photos/200/300"
   },
   {
     "name": "Colosseum",
     "countryName": "Italy",
-    "image": "https://cdn.britannica.com/s:300x500/36/162636-050-932C5D49.jpg"
+    "image": "https://picsum.photos/200/300"
   },
   {
     "name": "Taj Mahal",
     "countryName": "India",
-    "image": "https://cdn.britannica.com/s:300x500/86/170586-050-AB7FEFAE.jpg"
+    "image": "https://picsum.photos/200/300"
   }
 ]
